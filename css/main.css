@@ -19,10 +19,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
-}
-
 .grid {
   background-color: #423ca3;
 }
